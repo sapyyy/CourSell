@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-_A robust and scalable backend API for managing online courses and sales. CourSell provides endpoints for user authentication, course creation, enrollment, and sales tracking. It uses JSON Web Tokens (JWT) for secure authentication and stores all data persistently in MongoDB._
+_A robust and scalable backend API for managing online courses and sales. CourSell provides endpoints for user authentication, course creation & enrollment. It uses JSON Web Tokens (JWT) for secure authentication and stores all data persistently in MongoDB._
 
 ## ⚙️ Technologies Used
 
