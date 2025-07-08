@@ -285,4 +285,4 @@ Lists all courses purchased by the authenticated user.
     The API will now be running at `http://localhost:5000` (or whatever port you specified in your `config.js` file).
 
 5.  **Completed:**
-    Now you have your CourSell API running on localhost. Give this repo a start if this was useful. Thanks!
+    Now you have your CourSell API running on your local machine. Give this repo a ⭐ if this was useful. Thanks!
